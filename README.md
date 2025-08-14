@@ -6,19 +6,6 @@
 ## Description
 nutritionanalyzer is an open-source mobile application designed to simplify nutritional tracking and management. Whether you are looking to improve your health, lose weight, or simply maintain a balanced diet, nutritionanalyzer provides a minimalistic interface to easily track and analyze your daily nutrition.
 
-[Website](https://simonoppowa.github.io/nutritionanalyzer-Website/)
-
-## Screenshots
-<p align="center">
-  <img alt="Logo" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png" width="20%" />
-  &nbsp;&nbsp;
-  <img alt="Logo" src="fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png" width="20%" />
-  &nbsp;&nbsp;
-  <img alt="Logo" src="fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png" width="20%" />
-  &nbsp;&nbsp;
-  <img alt="Logo" src="fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png" width="20%" />
-</p>
-
 ## Install
 [<img src="fastlane/metadata/android/en-US/images/appstore_banner.png" width="30%">](https://testflight.apple.com/join/j7uKoEDl)
 [<img src="fastlane/metadata/android/en-US/images/playstore_banner.png" width="30%">](https://play.google.com/store/apps/details?id=com.nutritionanalyzer.ont.nutritionanalyzer)
@@ -32,7 +19,6 @@ nutritionanalyzer is an open-source mobile application designed to simplify nutr
 - **🚫💰 No Subscription, In-App Purchases, or Ads:** nutritionanalyzer is completely free to use, without any subscription fees, in-app purchases, or intrusive advertisements.
 
 ## Privacy
-See [Data Protection](https://www.iubenda.com/privacy-policy/53501884)
 - **Data Encryption**: All collected user data is encrypted and stored locally on your device
 - **Minimal Data Collection**: nutritionanalyzer only collects the necessary information required for tracking nutrition and providing personalized insights. Your data will not be shared with third parties without your consent.
 - **Open-Source**: nutritionanalyzer is an open-source application
@@ -57,6 +43,7 @@ The food database used in nutritionanalyzer is powered by [Open Food Facts](http
 ## Contact
 For questions, suggestions, or collaborations, feel free to contact the project maintainer:
 </div>
+
 
 
 
